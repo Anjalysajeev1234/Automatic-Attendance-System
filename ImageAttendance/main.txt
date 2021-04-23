@@ -1,0 +1,2 @@
+upload images of students in this folder to mark attendance.
+time and name will be updated in attendance.csv file
